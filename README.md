@@ -120,7 +120,7 @@ See \[LinkedIn/README.md](LinkedIn/README.md).
 
 
 
-Add the repository URL here after pushing the project to GitHub.
+[GitHub Repository](https://github.com/Somia4094/Somia4094-Assignment-4)
 
 
 
